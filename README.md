@@ -1,6 +1,8 @@
 # Pokémon World <img src="https://vignette.wikia.nocookie.net/pkmnshuffle/images/3/3d/Mega_Blaziken.png/revision/latest?cb=20170409222119" alt="icon" height="50" />
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://opensource.org/licenses/MIT)
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://se-pokemon-world.herokuapp.com/)
+[![Website shields.io](https://img.shields.io/badge/website-offline-lightgrey)](about:blank)
+
+***Notice: The live hosting of this website has been shutdown as Heroku discontinued its free Dynos offering.***
 
 Pokémon World is a dynamically served website that contains a lot of useful information related to game data and core mechanics. It is not a professional website like Serebii or Smogon, but it has a beautifully designed user interface powered by Materialize CSS. This application is built with Node.js and Express, and it has certain limitations due to the fact that HTML pages are entirely rendered on the server side. [Pokéapi-v2](https://github.com/PokeAPI/pokedex-promise-v2) is the backbone of the project as it provides all the data used internally inside the routing layer.
 
